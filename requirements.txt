@@ -1,7 +1,13 @@
-numpy==2.3.2
-pandas==2.3.2
-scikit-learn==1.7.1
+numpy
+pandas
+optuna
+seaborn
+koolbox
+xgboost
+lightgbm
+matplotlib
+scikit-learn
 
-tqdm==4.67.1
-jupyterlab==4.4.7
-ipywidgets==8.1.7
+tqdm
+jupyterlab
+ipywidgets
